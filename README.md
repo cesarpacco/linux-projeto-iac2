@@ -1,6 +1,6 @@
 # Projeto 2 IaC
 
-Desenvolvemos um script para o provisionamento de um servidor web
+Desenvolvemos um script para o provisionamento de um servidor web.
 
 Ao executar o Script ele irá realizar as seguintes funções:
  - Atualizar o servidor;
